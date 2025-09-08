@@ -27,7 +27,7 @@ The goal was to analyze ecommerce data and uncover insights into *sales performa
 ![Market Basket](screenshots/market_basket.jpg)  
 
 ## 🎥 Project Demo (Screen Recording)
-👉 [Watch the dashboard walkthrough here](YOUR_VIDEO_LINK)  
+👉 [Watch the dashboard walkthrough here](https://github.com/AzadehHamidzad/Whiskique_Ecommerce_Data_Analysis_PowerBI/blob/8b1772ab7013f1a1809748709e3b2b1dd6472d35/Ecommerce_PowerBI_Dashboard.mov))  
 
 ## 🛠 Tools & Skills
 - Power BI  
