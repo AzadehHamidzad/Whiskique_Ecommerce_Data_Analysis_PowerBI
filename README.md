@@ -22,9 +22,9 @@ The goal was to analyze ecommerce data and uncover insights into *sales performa
 - Electronics and Grooming categories show the highest profit margins.  
 
 ## 📸 Dashboard Samples
-![Executive Summary](screenshots/executive_summary.jpg)  
-![Shipping Metrics](screenshots/shipping_metrics.jpg)  
-![Market Basket](screenshots/market_basket.jpg)  
+![Executive Summary]([screenshots/executive_summary.jpg](https://github.com/AzadehHamidzad/Whiskique_Ecommerce_Data_Analysis_PowerBI/blob/8b1772ab7013f1a1809748709e3b2b1dd6472d35/Executive_Summary.png))  
+![Shipping Metrics]([screenshots/shipping_metrics.jpg](https://github.com/AzadehHamidzad/Whiskique_Ecommerce_Data_Analysis_PowerBI/blob/a33776104f5391cba827dc22f27d964a094a8532/Shipping_Metrics.png))  
+![Market Basket]([screenshots/market_basket.jpg](https://github.com/AzadehHamidzad/Whiskique_Ecommerce_Data_Analysis_PowerBI/blob/a33776104f5391cba827dc22f27d964a094a8532/Market_Basket_Analysis.png))  
 
 ## 🎥 Project Demo (Screen Recording)
 👉 [Watch the dashboard walkthrough here](https://github.com/AzadehHamidzad/Whiskique_Ecommerce_Data_Analysis_PowerBI/blob/8b1772ab7013f1a1809748709e3b2b1dd6472d35/Ecommerce_PowerBI_Dashboard.mov))  
